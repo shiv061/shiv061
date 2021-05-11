@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shiv061
-- 👀 I’m interested in Frontend Technologies
-- 🌱 I’m currently learning Typescript and GraphQL
-- 💞️ I’m looking to collaborate on Fullstack Projects
+- 👋 Hi, I’m Shivansh Singh
+- 👀 I’m interested in FullStack Technologies mostly Frontend.
+- 🌱 I’m currently learning Typescript and GraphQL.
+- 💞️ I’m looking to collaborate on Fullstack Projects.
 - 📫 Ping me @shivansh0200@gmail.com
 
 <!---
